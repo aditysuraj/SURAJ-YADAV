@@ -1,9 +1,9 @@
 #!/bin/bash
 
 ##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
+##   Author 	: 	ADITYASURAJ 
 ##   Version 	: 	2.1
-##   Github 	: 	https://github.com/htr-tech
+##   Github 	: 	https://github.com/aditysuraj
 
 ##   THANKS TO :
 ##   Aditya Shakya - https://github.com/adi1090x
@@ -89,7 +89,7 @@
 ##    The precise terms and conditions for copying, distribution and
 ##    modification follow.
 ##
-##      Copyright (C) 2021  HTR-TECH (https://github.com/htr-tech)
+##      Copyright (C) 2021  aditysuraj (https://github.com/aditysuraj)
 ##
 
 
@@ -155,7 +155,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : 2.1
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by aditysuraj (ADITYASURAJ)${WHITE}
 	EOF
 }
 
@@ -263,9 +263,9 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/htr-tech
-		${GREEN}Social   ${RED}:  ${CYAN}https://linktr.ee/tahmid.rayat
+		${GREEN}Author   ${RED}:  ${ORANGE} ADITYASURAJ ${RED}[ ${ORANGE}adityasuraj ${RED}]
+		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/aditysuraj
+		${GREEN}Social   ${RED}:  ${CYAN}https://linktr.ee/ADITYASURAJ
 		${GREEN}Version  ${RED}:  ${ORANGE}2.1
 
 		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,DarkSecDevelopers,Thelinuxchoice ${RESETBG}
